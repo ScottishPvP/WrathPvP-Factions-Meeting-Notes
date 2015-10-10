@@ -40,3 +40,27 @@ WrathPvP Factions:
      :- The Issues was this in his words https://gyazo.com/a63ce98817ab5e15c03d66b51817ba59
   
   :- I think for the Reset we should get a Date set up the now to aim and try reach so we have something to work towards and      a deadline. that way we have to work that bit harder in order to get it out and ready.
+  
+  WrathPvP KitPvP:
+  :- The kit pvp needs a new map. i know this is not on the priority list. i am just saying to keep it in mind.
+  
+  :- Events are needed on here. I was Thinking Koths. and someone else was saying events such as have a select amount of          people on top of a hill to control and last person standing on the stop wins. Or even bringing team fights in a 
+     controled area for a reward to the winning team.
+  
+  :- Someone was also saying about having Invisable Potions aquirable via the shop. i am kinda against this but i figured i       would bring it up and get your guys opinions. I myself prefer not having people running around hitting me or insta
+     damaging me or hitting me off the tower because i cant see them and loosing all my gear that i just enchanted.
+     
+  :- This is server wide but jaffaman_t <-IGn has his votes from last months carried over. he told me on the kitpvp server so      its going here :D
+  
+  :- The rewards for the events i was thinking should either Be In Game Money for buying enchants and armour. Or making it        Peices of armour/swords/bows. How well the bits are enchanted depends on the event maybe.
+  
+WrathPvP Practice Server:
+  :- So question on my mind, did you look into the plugin?
+  
+  :- Have you found out how it works and how the areas are set up?
+  
+  :- Have you found out how the players change/alter there kits?
+  
+  :- Is it just going to be Just 1v1/2v2 etc arenas or are we going to have a FFA arenas for the different class modes?
+  
+  
